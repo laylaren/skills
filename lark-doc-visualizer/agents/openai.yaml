@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书文档可视化"
+  short_description: "先规划确认，再把飞书文档保真制作成可视化副本"
+  default_prompt: "使用 $lark-doc-visualizer 先为这个飞书文档提出可视化规划，等我确认后再制作副本。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown to Lark Doc"
+  short_description: "从 Markdown 创建飞书文档，保留本地图片位置"
+  default_prompt: "Use $md-to-lark-doc to create a Lark document from a Markdown file."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Visualizer"
+  short_description: "将 Markdown 转为数据图表、表格与统一风格 SVG"
+  default_prompt: "Use $markdown-visualizer to create a faithful visualized Markdown version with appropriate SVG charts, tables, and diagrams."
